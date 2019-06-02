@@ -1,2 +1,2 @@
 # datascience
-Repositório de teste de datascience
+Repositório de estudo e testes de datascience
